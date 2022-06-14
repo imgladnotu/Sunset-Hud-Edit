@@ -4,6 +4,8 @@
 
 **A Not So Bright Team Fortress 2 Hud Originally By Hypnootize**
 
+I'm Still An Amateur At This So Pls Dont Hurt Me, If You Found Something That Should Be Addressed/Edited/Changed From The Main Hud, Feel Free To Make An Issue Or Create A New Discussion Thread
+
 <a>LINKS, Yes These Will Still Apply.</a>
 ====
 
