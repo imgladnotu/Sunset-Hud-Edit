@@ -1,6 +1,7 @@
 **Edit By Me, Credits Belong To Hypnotize,The Contributors That Helped Hypnotize, And Fuze**
 
-**A very BRIGHT Team Fortress 2 Hud by Hypnotize**
+~~**A very BRIGHT Team Fortress 2 Hud by Hypnotize**~~
+**A Not So Bright Team Fortress 2 Hud Originally By Hypnootize**
 
 <a>LINKS</a>
 ====
