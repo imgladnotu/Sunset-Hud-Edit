@@ -10,5 +10,5 @@
 
 
 //#base "../resource/ui/alternatives/matchstatus_names.res"			// MATCHSTATUS WITH BIG HEALTH BAR AND PLAYER NAMES
-#base "../resource/ui/alternatives/matchstatus_nonames.res"			// MATCHSTATUS WITH BIG HEALTH BAR AND NO PLAYER NAMES
-//#base "../resource/ui/alternatives/matchstatus_normal.res"		// MATCHSTATUS WITH SMALL HEALTH BAR AND NO PLAYER NAMES, DEFAULT HUD LOOK
+//#base "../resource/ui/alternatives/matchstatus_nonames.res"			// MATCHSTATUS WITH BIG HEALTH BAR AND NO PLAYER NAMES
+#base "../resource/ui/alternatives/matchstatus_normal.res"		// MATCHSTATUS WITH SMALL HEALTH BAR AND NO PLAYER NAMES, DEFAULT HUD LOOK

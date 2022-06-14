@@ -12,12 +12,12 @@ Scheme
 		"Black"											"0 0 0 255"
 		"Blank"											"0 0 0 0"
 
-		"FrameActive"									"0 0 0 150"
+		"FrameActive"									"0 0 0 200"
 		"FrameInactive"									"0 0 0 120"
 		"ListBG"										"0 0 0 90"
 
-		"Button"										"150 200 220 255"
-		"ButtonArmed"									"255 200 55 255"
+		"Button"										"121 121 121 255"
+		"ButtonArmed"									"73 73 73 255"
 		"ButtonText"									"0 0 0 255"
 		"ButtonTextArmed"								"255 255 255 255"
 

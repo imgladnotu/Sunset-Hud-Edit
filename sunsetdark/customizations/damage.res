@@ -9,10 +9,10 @@
 //=========================================================================================
 
 //#base "../resource/ui/alternatives/damage_shadow_small.res"       // SHADOW SMALL
-#base "../resource/ui/alternatives/damage_shadow_medium.res"        // SHADOW MEDIUM
+//#base "../resource/ui/alternatives/damage_shadow_medium.res"        // SHADOW MEDIUM
 //#base "../resource/ui/alternatives/damage_shadow_big.res"         // SHADOW BIG
 //#base "../resource/ui/alternatives/damage_outline_small.res"      // OUTLINE SMALL
-//#base "../resource/ui/alternatives/damage_outline_medium.res"     // OUTLINE MEDIUM
+#base "../resource/ui/alternatives/damage_outline_medium.res"     // OUTLINE MEDIUM
 //#base "../resource/ui/alternatives/damage_outline_big.res"        // OUTLINE BIG
 
 
@@ -26,5 +26,5 @@
 // https://github.com/Hypnootize/Sunset-Hud/wiki/Damage-Numbers
 //=========================================================================================
 
-#base "../resource/ui/alternatives/damage_last_off.res"		// DAMAGE ABOVE THE HEALTH DISABLED
-//#base "../resource/ui/alternatives/damage_last_on.res"	// DAMAGE ABOVE THE HEALTH ENABLED
+//#base "../resource/ui/alternatives/damage_last_off.res"		// DAMAGE ABOVE THE HEALTH DISABLED
+#base "../resource/ui/alternatives/damage_last_on.res"	// DAMAGE ABOVE THE HEALTH ENABLED
