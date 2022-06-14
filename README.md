@@ -4,7 +4,7 @@
 
 **A Not So Bright Team Fortress 2 Hud Originally By Hypnootize**
 
-<a>LINKS</a>
+<a>LINKS, Yes These Will Still Apply.</a>
 ====
 
 [HUD Wiki](https://github.com/Hypnootize/Sunset-Hud/wiki)
