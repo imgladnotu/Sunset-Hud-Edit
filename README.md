@@ -6,6 +6,8 @@
 
 I'm Still An Amateur At This So Pls Dont Hurt Me, If You Found Something That Should Be Addressed/Edited/Changed From The Main Hud, Feel Free To Make An Issue Or Create A New Discussion Thread
 
+<a>I AM NOT RESPONSIBLE FOR YOU MISUSING THIS HUD AND CONSEQUENTLY GETTING YOU BANNED FROM A LEAGUE. YOU HAVE BEEN WARNED</a>
+
 <a>LINKS, Yes These Will Still Apply.</a>
 ====
 

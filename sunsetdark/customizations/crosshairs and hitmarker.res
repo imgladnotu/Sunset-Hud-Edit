@@ -51,7 +51,7 @@
 
 	"HitMarker"
 	{
-		"labelText"	"/"																																																																			"ControlName" "CExLabel" "fieldName" "HitMarker" "enabled" "1" "visible" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center" "alpha" "0"
+		"labelText"	"."																																																																			"ControlName" "CExLabel" "fieldName" "HitMarker" "enabled" "1" "visible" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center" "alpha" "0"
 		
 		"font"		"Size:24 | Outline:OFF"
 		

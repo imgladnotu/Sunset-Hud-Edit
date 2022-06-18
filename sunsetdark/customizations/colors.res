@@ -21,7 +21,7 @@ Scheme
 		"Crosshair Shadow"						"0 0 0 255"
 		"Crosshair Pulse"						"245 70 70 255"
 		
-		"HitMarker"								"235 235 235 255"
+		"HitMarker"								"255 0 0 255"
 
 		"Health"								"235 235 235 255"
 
