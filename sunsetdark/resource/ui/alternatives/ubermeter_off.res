@@ -28,7 +28,7 @@
 		"ControlName"				"CExLabel"
 		"fieldName"					"ChargeLabel"
 		"xpos"						"0"
-		"ypos"						"0"
+		"ypos"						"14"
 		"zpos"						"2"
 		"wide"						"100"
 		"wide_minmode"				"140"
@@ -39,7 +39,7 @@
 		"labelText"					"#TF_UberchargeMinHUD"
 		"textAlignment"				"center"
 		"font"						"Size 40 Shadow"
-		"font_minmode"				"Size 50 Shadow"
+		"font_minmode"				"Size 40 Shadow"
 		"fgcolor"					"Ubercharge"
 		
 		"pin_to_sibling"			"UberAnchor"
