@@ -105,7 +105,7 @@
 		"wide"							"208"
 		"tall"							"20"
 		"proportionaltoparent"			"1"
-		"labeltext"						"The Funny Button"
+		"labeltext"						"#TF_MM_IgnoreInvites"
 		"textAlignment"					"west"
 		"font"							"Size 11"
 		"AllCaps"						"1"
@@ -114,7 +114,7 @@
 		"sound_depressed"				"UI/buttonclickrelease.wav"	
 		"button_activation_type"		"1"
 
-		"cvar_name" 					"sv_cheats"
+		"cvar_name" 					"tf_party_ignore_invites"
 	}
 
 	"KeepPartyOnSameTeam"
