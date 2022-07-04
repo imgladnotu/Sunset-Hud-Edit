@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/imgladnotu/Sunset-Hud-Edit/master/hl2_S1cFDmCQoc.jpg
+
 **Edit By Me, Credits Belong To Hypnotize,The Contributors That Helped Hypnotize, [Fuze](https://www.youtube.com/channel/UCkzIPO0-cy-h2Kj8gJwTbYg) for the [AMAZING visuals on display here](https://www.youtube.com/watch?v=i9_jAo0DOK0), [lambdagon](https://gamebanana.com/members/1795251) and [villagegreenpreserver](https://gamebanana.com/members/2082093) of gamebanana for initially giving me the inspiration to implement HL2/HL menu sounds into the hud and finally VALVe For the original audio implemented in half-life 2.**
 
 ~~**A very BRIGHT Team Fortress 2 Hud by Hypnotize**~~
