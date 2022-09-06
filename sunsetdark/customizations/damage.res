@@ -12,7 +12,7 @@
 //#base "../resource/ui/alternatives/damage_shadow_medium.res"        // SHADOW MEDIUM
 //#base "../resource/ui/alternatives/damage_shadow_big.res"         // SHADOW BIG
 //#base "../resource/ui/alternatives/damage_outline_small.res"      // OUTLINE SMALL
-#base "../resource/ui/alternatives/damage_outline_medium.res"     // OUTLINE MEDIUM
+//#base "../resource/ui/alternatives/damage_outline_medium.res"     // OUTLINE MEDIUM
 //#base "../resource/ui/alternatives/damage_outline_big.res"        // OUTLINE BIG
 
 
